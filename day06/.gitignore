@@ -1,0 +1,9 @@
+a
+b
+ex0*.txt
+ex0*.cpp
+.direnv
+*.o
+.build
+a.out
+.envrc
