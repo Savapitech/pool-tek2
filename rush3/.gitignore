@@ -1,0 +1,6 @@
+.envrc
+.direnv
+*.o
+bistroMatic
+.build/
+test
