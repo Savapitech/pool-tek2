@@ -1,0 +1,10 @@
+a
+b
+.direnv
+*.o
+.build
+a.out
+.envrc
+*.gcno
+*.gcda
+unit_tests
